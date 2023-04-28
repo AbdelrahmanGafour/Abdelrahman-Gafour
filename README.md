@@ -3,13 +3,13 @@
 <h3 align="center">A passionate Software Developer from Egypt... I have a solid experience in designing and building responsive web apps. Proficient in HTML, CSS, JavaScript 🟡, PHP 🚀 as well as a good knowledge in Backend with Laravel, with knowledge of UI, UX and user psychology</h3>
 <img align="right" alt="coding" width="350" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmangafour&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmangafour" /> </p>
+<p align="left"> <img src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*IRGHmiGsa16stedQvIaZfw.gif" alt="abdelrahmangafour" /> </p>
 
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **PHP, Laravel, JavaScript**
 
-- 📫 How to reach me **abdelrhmangafour@outlook.com**
+- 📫 How to reach me **abdelrhmangafour@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
